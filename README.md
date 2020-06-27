@@ -1,3 +1,7 @@
+Passed tests
+
+![alt text]https://github.com/YuraPas/Additiv-Practical-Test/blob/master/passedTest.PNG)
+
 # RefactorMircoExcercise
 
 ## Timing
